@@ -102,6 +102,3 @@ dist
 
 # TernJS port file
 .tern-port
-
-# Environment variables used by dotenv
-.env
